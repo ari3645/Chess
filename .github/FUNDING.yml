@@ -1,0 +1,10 @@
+# Fichier de configuration pour le bouton "Sponsor" (Soutenir le projet) de GitHub.
+
+# Parrainage via Buy Me a Coffee (activé)
+buy_me_a_coffee: ari3645
+
+# Vous pouvez également activer d'autres plateformes si besoin en enlevant le '#' :
+# github: [ari3645]
+# patreon: nom_d_utilisateur
+# ko_fi: nom_d_utilisateur
+# custom: ['https://www.paypal.me/votre_identifiant']
